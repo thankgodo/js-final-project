@@ -1,0 +1,19 @@
+Welcome to your final JavaScript project
+
+Title: Quiz Application
+1. Build a quiz application using JavaScript, HTML and CSS.
+2. You are expected to have a store of 20 questions with three options to selected from.
+3. Your option format could be a button or radio.
+4. You should display one question at a time together with a next button.
+5. Your application must display the score of of a user out of the total questions at the end of the quiz.
+6. A retry button should be rendered only if the user scored less than 70% in the quiz.
+
+RULES:
+a.Your code must be unique, no two people should have the same set of codes.
+b. You must be able to explain your code in clear terms.
+c. You have only 10days from today to complete this project.
+d. Any grade less than 75% will infer that you'll not continue the bankend course.
+e. You'll be graded based on your adherence to project instructions, app performance and how well you can explain your code in clear terms.
+d. Have fun.
+
+Good Luck!!!
